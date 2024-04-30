@@ -1,6 +1,6 @@
 # Student Database System
 
-This project is a simple student database system implemented in C programming language utilizing the concept of linked lists for data storage. The system allows users to perform various operations such as adding new students, deleting existing students, updating student information, and displaying the entire student database.
+This project is a student database system implemented in C programming language utilizing the concept of linked lists for data storage. The system allows users to perform various operations such as adding new students, deleting existing students, updating student information, and displaying the entire student database.
 
 ## Features:
 - **Add Student**: Users can add new student records to the database by providing details such as student ID, name, age, and grade.
